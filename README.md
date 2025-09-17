@@ -5,7 +5,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/sgmad/port-container-management.svg)](https://github.com/sgmad/port-container-management)  
 [![Last Commit](https://img.shields.io/github/last-commit/sgmad/port-container-management.svg)](https://github.com/sgmad/port-container-management/commits/main)  
 
-> A menu-driven console application written in **Java** for academic purposes.  
+> A menu-driven console application written in Java for academic purposes.  
 > It simulates the operations of a small port by managing **containers** and **ships** using ADTs with Java’s `ArrayDeque`.
 
 ## 📖 Overview
