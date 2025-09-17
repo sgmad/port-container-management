@@ -1,8 +1,9 @@
 # ⚓ Port Container Management
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)  
-[![Last Commit](https://img.shields.io/github/last-commit/sgmad/port-container-management.svg)](https://github.com/sgmad/port-container-management/commits/main)  
+[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/) 
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) 
+[![Repo Size](https://img.shields.io/github/repo-size/sgmad/port-container-management.svg?cacheSeconds=60)](https://github.com/USERNAME/REPO) 
+[![Last Commit](https://img.shields.io/github/last-commit/sgmad/port-container-management.svg)](https://github.com/sgmad/port-container-management/commits/main) 
 
 > A menu-driven console application written in Java for academic purposes.  
 > It simulates the operations of a small port by managing **containers** and **ships** using ADTs with Java’s `ArrayDeque`.
