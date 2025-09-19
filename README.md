@@ -69,6 +69,6 @@ This program demonstrates practical use of stacks and queues in a real-world-ins
 |-------|-------|
 | ![Program Screenshot 1](1.%20Screenshot%20of%20a%20full%20run%20showing%20at%20least%203%20containers%20added.png) | ![Program Screenshot 2](2.%20Screenshot%20of%20a%20full%20run%20showing%201%20ship%20loaded%20successfully.png) |
 
-| Viewing both lists | Successfully loading 1 ship |
+| Viewing both lists | Loading 1 ship |
 |-------|-------|
 | ![Program Screenshot 3](3.%20Screenshot%20of%20a%20full%20run%20showing%20both%20lists%20being%20viewed.png) | ![Program Screenshot 4](4.%20Screenshot%20of%20a%20full%20run%20showing%20at%20least%202%20ships%20registered.png) |
